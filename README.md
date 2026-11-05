@@ -2,6 +2,4 @@
 
 公开预览：https://17611185912l-cmd.github.io/lingbang-index/
 
-页面流程图：https://17611185912l-cmd.github.io/lingbang-index/flow.html
-
 发布内容为当前登录、身份选择、家长信息与老师实名认证的交互演示。授权、登录、认证均为模拟，不提交真实信息。
