@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="428" viewBox="0 0 375 428" fill="none"><rect width="375" height="812" fill="white" />
+<rect width="375" height="88" fill="url(#paint0_linear_1252_27796)" />
+<rect width="375" height="340" transform="translate(0 88)" fill="url(#paint1_linear_1252_27796)" />
+<g clip-path="url(#clip0_1252_27796)">
+<path d="M-40 295C71 281 108 148 212 157C305 165 321 263 453 200" stroke-width="1.2" stroke="#C1EBE0" />
+<path d="M-25 313C83 298 129 173 228 179C327 241 339 279 454 220" stroke-width="1.2" stroke="#D9EDE4" />
+</g>
+<circle cx="187.5" cy="196" r="90" fill="url(#paint2_radial_1252_27796)" />
+<defs>
+<filter id="filter0_d_1252_27796" x="99" y="120" width="176" height="176" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="12" />
+<feGaussianBlur stdDeviation="16" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.137255 0 0 0 0 0.443137 0 0 0 0 0.368627 0 0 0 0.1 0" />
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1252_27796" />
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1252_27796" result="shape" />
+</filter>
+<linearGradient id="paint0_linear_1252_27796" x1="187.5" y1="0" x2="187.5" y2="88" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E5FBF4" />
+<stop offset="1" stop-color="#EFFBF6" />
+</linearGradient>
+<linearGradient id="paint1_linear_1252_27796" x1="187.5" y1="0" x2="187.5" y2="340" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EFFBF6" />
+<stop offset="0.55" stop-color="#F3FAF6" />
+<stop offset="1" stop-color="white" />
+</linearGradient>
+<radialGradient id="paint2_radial_1252_27796" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(187.5 196) scale(90)">
+<stop stop-color="#CFF4E5" stop-opacity="0.65" />
+<stop offset="1" stop-color="white" stop-opacity="0" />
+</radialGradient>
+<clipPath id="clip0_1252_27796">
+<rect width="375" height="260" fill="white" transform="translate(0 88)" />
+</clipPath>
+<clipPath id="clip1_1252_27796">
+<rect width="93" height="72" fill="white" transform="translate(138 162)" />
+</clipPath>
+<clipPath id="clip2_1252_27796">
+<rect width="375" height="350" fill="white" transform="translate(0 428)" />
+</clipPath>
+<clipPath id="clip3_1252_27796">
+<rect width="327" height="52" fill="white" transform="translate(24 650)" />
+</clipPath>
+</defs>
+</svg>
